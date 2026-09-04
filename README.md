@@ -18,7 +18,7 @@ The library implements six primary business-logic components:
 - **`NumOfEmployees`**: Counts personnel assigned to specific corporate positions with null/empty array guard clauses.
 - **`GetBonus`**: Manages department revenue goals, bonus distributions, and proportional percentage contributions.
 
-## Project Manual (`manual.pdf`)
+## Manual
 
 The repository includes a comprehensive, multi-page technical report (`manual.pdf`) authored by Georgios-Panagiotis Cheimonidis. 
 
